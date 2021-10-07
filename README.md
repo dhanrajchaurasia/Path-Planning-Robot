@@ -37,7 +37,6 @@
 ---
 
 <p align="center">
-  
-                                                  Thanks for Visiting! 
-                                        Show some ❤️ by starring 🌟 the repository
+<p align="center">Thanks for Visiting!</p>
+<p align="center">Show some ❤️ by starring 🌟 the repository</p>
 </p>
